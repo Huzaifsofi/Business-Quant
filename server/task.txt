@@ -1,0 +1,6 @@
+* Nodejs setup with docker
+* Mysql setup with docker
+* think the way to interact with sql
+* Endpoint  upload  csv data
+* Endpoint for data stock query 
+* Endpoint  for stock filter
